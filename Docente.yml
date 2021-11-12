@@ -1,0 +1,15 @@
+spring: 
+    datasource:
+      driver-class-name: com.mysql.jdbc.Driver
+      url: jdbc:mysql://212.131.189.19:30016/corso10
+      username: Martina
+      password: Corso10!
+      
+server:
+   port: 8081
+
+
+
+  
+
+ 
